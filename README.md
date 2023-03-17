@@ -3,7 +3,7 @@ We have used easy-ocr to convert pdf to text for Hindi language.
 The pdf that we wanted to convert is split in two halves vertically as shown below.
 
 <p align="center">
-<img src="./Assets/pdf.png" height="300px" width ="300px" class="center"/>
+<img src="./Assets/pdfim.png" height="300px" width ="300px" class="center"/>
 </p>
 
 
@@ -14,7 +14,7 @@ The entire code to the above steps is present in the OCR_hin.ipynb notebook.
 After getting the text, we put it into a final document which is present in the output folder as shown below.
 
 <p align="center">
-<img src="./Assets/doc.png" height="300px" width ="300px" class="center"/>
+<img src="./Assets/docu.png" height="300px" width ="300px" class="center"/>
 </p>
 
 
